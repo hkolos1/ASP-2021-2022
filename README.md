@@ -1,2 +1,7 @@
-# ASP-2021-2022
-ETF Sarajevo - Programska rješenja za pripremne zadace i zadace na predmetu Algoritmi i strukture podataka
+# [ETF UNSA] Algoritmi i strukture podataka 2021-22
+## Pripremne zadaće i Zadaće
+
+### Neovlašteno kopiranje, reprodukcija, objavljivanje, upload, preuzimanje, 
+### mijenjanje, objavljivanje, prenošenje ili umnožavanje je STROGO ZABRANJENO!
+
+2022 © hkolos1 
